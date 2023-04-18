@@ -1,5 +1,5 @@
 ---
-num: 'S02E03'
+num: '02'
 date: 2022-04-17
 title: '对话吴炳锡：一个 DBA 老兵眼里的开源与生存'
 link: https://cdn2.wavpub.com/hosting.wavpub.cn/wp-content/uploads/sites/18/2023/04/20230319wubx.mp3
@@ -12,7 +12,7 @@ hosts:
 
 ---
 
-# S02E03 对话吴炳锡：一个 DBA 老兵眼里的开源与生存
+# [番外 03] 对话吴炳锡：一个 DBA 老兵眼里的开源与生存
 
 作为一个从业接近 20 年的 BDA 老兵，吴炳锡的开源生涯始于 MySQL，在长达 15 年+ 的 MySQL DBA 工作中，坚守基础软件的他见证了许多开源项目兴衰，也目睹了一代开源人的艰难跋涉。在本期播客中，吴炳锡分享了鸟哥（PHP）、悟空（FFmpeg）等几个开源大牛的小故事，见微知著地探讨了开源与生存的话题。
 
@@ -27,7 +27,7 @@ hosts:
 [MikeyWei](https://github.com/MikeyWei) 开源爱好者、一个码字的
 
 ## 时间线
-略
+【略】
 
 # Staff
 [MikeyWei](https://github.com/MikeyWei) 开源爱好者、一个码字的
